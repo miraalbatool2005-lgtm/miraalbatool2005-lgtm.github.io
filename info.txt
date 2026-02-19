@@ -1,0 +1,18 @@
+Create a premium modern 2026 style animated portfolio website for Miraal.
+
+Requirements:
+- Clean professional layout
+- Hero section with big heading "Hi, I'm Miraal"
+- Short bio: BS Student in Bioinformatics
+- Two buttons: Learn More and Contact Me
+- Modern gradient background (blue/purple soft tones)
+- Glassmorphism effect cards
+- Smooth fade-in animation for heading and paragraph
+- Buttons scale and glow on hover
+- Smooth navbar with animated underline effect
+- Floating animation for hero illustration
+- Soft shadows and smooth transitions
+- Fully responsive
+- Separate CSS file (style.css)
+- Link CSS properly
+Keep it elegant, minimal, and impressive.
